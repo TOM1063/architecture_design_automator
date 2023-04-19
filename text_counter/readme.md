@@ -9,7 +9,7 @@ This python code counts how many times spesific keywords appear.
 ## 使い方
 1. data/inoput.xlsx を開き、"input"と名付けてあるsheetに、カウントしたいキーワード群をセットしてください
 2. "url"と名付けてあるsheetに、カウント対象のpptxファイルの絶対パスを入力してください。
-3. counter.pyを実行
+3. text_counter.pyを実行
 4. 再度 data/inoput.xlsxを開き、"result"と名付けてあるsheetで結果が確認できます。
 
 ## 使用にあたっての注意点
